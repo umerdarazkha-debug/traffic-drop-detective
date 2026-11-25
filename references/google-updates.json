@@ -1,0 +1,238 @@
+{
+  "checked": "2026-11-24 to 2026-11-26",
+  "source": "Google Search Status Dashboard, Ranking product: https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history",
+  "notes": [
+    "Only core and spam updates are listed. Not listed on purpose: Feb 2026 Discover update, the Aug 2024 'ranking is experiencing an ongoing issue' incident, and Serving incidents.",
+    "Entries with use_for_matching=false have no end date yet and are never matched against drops.",
+    "The dashboard lists no reviews or helpful content updates for 2024-2026. Dashboard history before March 2024 was not collected here."
+  ],
+  "updates": [
+    {
+      "name": "March 2024 core update",
+      "start": "2024-03-05",
+      "end": "2024-04-19",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/1jW2F89qC2NxJBWGiKxE",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "March 2024 spam update",
+      "start": "2024-03-05",
+      "end": "2024-03-20",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/iXz2PJfodvyjaVUeqxZE",
+      "verified": true,
+      "type": "spam",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "June 2024 spam update",
+      "start": "2024-06-20",
+      "end": "2024-06-27",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/QdUeCQx3LRVbzQ3E7FiD",
+      "verified": true,
+      "type": "spam",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "August 2024 core update",
+      "start": "2024-08-15",
+      "end": "2024-09-03",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/gVx6b2o78zke7GrMidGy",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "November 2024 core update",
+      "start": "2024-11-11",
+      "end": "2024-12-05",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/G7rp11wqTaTGn6JjiPF3",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "December 2024 core update",
+      "start": "2024-12-12",
+      "end": "2024-12-18",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/V9nDKuo6nWKh2ThBALgA",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "December 2024 spam update",
+      "start": "2024-12-19",
+      "end": "2024-12-26",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/UUq2WSouY7PhSm8zvtD1",
+      "verified": true,
+      "type": "spam",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "March 2025 core update",
+      "start": "2025-03-13",
+      "end": "2025-03-27",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/zpmwuSwifjDjfrVdaZUx",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "June 2025 core update",
+      "start": "2025-06-30",
+      "end": "2025-07-17",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/riq1AuqETW46NfBCe5NT",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "August 2025 spam update",
+      "start": "2025-08-26",
+      "end": "2025-09-22",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/a7Aainy6E9rZsmfq82xt",
+      "verified": true,
+      "type": "spam",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "December 2025 core update",
+      "start": "2025-12-11",
+      "end": "2025-12-29",
+      "tz": "US/Pacific (as printed on the incident page)",
+      "source_url": "https://status.search.google.com/incidents/DsirqJ1gpPRgVQeccPRv",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "March 2026 spam update",
+      "start": "2026-03-24",
+      "end": "2026-03-25",
+      "tz": "UTC (incidents.json)",
+      "source_url": "https://status.search.google.com/incidents/VbnSXAH4SmEcxPtx4YSD",
+      "verified": true,
+      "type": "spam",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "March 2026 core update",
+      "start": "2026-03-27",
+      "end": "2026-04-08",
+      "tz": "UTC (incidents.json)",
+      "source_url": "https://status.search.google.com/incidents/7eTbAa2jWdToLkraZj5y",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "May 2026 core update",
+      "start": "2026-05-21",
+      "end": "2026-06-02",
+      "tz": "UTC (incidents.json)",
+      "source_url": "https://status.search.google.com/incidents/wdAXJk6LRRihEjpzEeWE",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "June 2026 spam update",
+      "start": "2026-06-24",
+      "end": "2026-06-26",
+      "tz": "UTC (incidents.json)",
+      "source_url": "https://status.search.google.com/incidents/YUX1peHev5a4fkxLDiUQ",
+      "verified": true,
+      "type": "spam",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "August 2026 spam update",
+      "start": "2026-08-18",
+      "end": "2026-08-21",
+      "tz": "UTC (incidents.json)",
+      "source_url": "https://status.search.google.com/incidents/LEubPCm2octf2uMqCFKE",
+      "verified": true,
+      "type": "spam",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "September 2026 spam update",
+      "start": "2026-09-24",
+      "end": "2026-10-08",
+      "tz": "UTC (incidents.json)",
+      "source_url": "https://status.search.google.com/incidents/XhUDXP7A67iHCD2kmbVu",
+      "verified": true,
+      "type": "spam",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "November 2026 core update",
+      "start": "2026-11-10",
+      "end": "2026-11-24",
+      "tz": "UTC (incidents.json)",
+      "source_url": "https://status.search.google.com/incidents/WLxcJyC6jMWMfryxsKMc",
+      "verified": true,
+      "type": "core",
+      "status": "completed",
+      "use_for_matching": true
+    },
+    {
+      "name": "December 2026 core update",
+      "start": null,
+      "end": null,
+      "tz": "UTC (incidents.json)",
+      "source_url": "https://status.search.google.com/incidents/AXrqxXXdtSjj3672ux7X",
+      "verified": true,
+      "type": "core",
+      "status": "preannounced",
+      "use_for_matching": false,
+      "announced": "2026-11-24"
+    }
+  ],
+  "data_anomalies": [
+    {
+      "name": "Search Console impressions logging error",
+      "start": "2025-05-13",
+      "end": "2026-04-27",
+      "metrics_affected": [
+        "impressions",
+        "ctr",
+        "position"
+      ],
+      "clicks_affected": false,
+      "wording": "Official page: a logging error caused inaccurate impression reporting; clicks were not affected; resolved.",
+      "source_url": "https://support.google.com/webmasters/answer/6211453",
+      "checked": "2026-11-26",
+      "verified": true
+    }
+  ]
+}
